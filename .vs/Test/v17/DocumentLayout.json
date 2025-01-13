@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9778FE8F-F264-4EFE-BDD0-F28D815B32EE}|Test\\Test.csproj|C:\\Users\\ASUS\\source\\repos\\Test\\test\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9778FE8F-F264-4EFE-BDD0-F28D815B32EE}|Test\\Test.csproj|solutionrelative:test\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{9778FE8F-F264-4EFE-BDD0-F28D815B32EE}|Test\\Test.csproj|C:\\Users\\ASUS\\source\\repos\\Test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9778FE8F-F264-4EFE-BDD0-F28D815B32EE}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9778FE8F-F264-4EFE-BDD0-F28D815B32EE}|Test\\Test.csproj|c:\\users\\asus\\source\\repos\\test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9778FE8F-F264-4EFE-BDD0-F28D815B32EE}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9778FE8F-F264-4EFE-BDD0-F28D815B32EE}|Test\\Test.csproj|c:\\users\\asus\\source\\repos\\test\\test\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9778FE8F-F264-4EFE-BDD0-F28D815B32EE}|Test\\Test.csproj|solutionrelative:test\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9778FE8F-F264-4EFE-BDD0-F28D815B32EE}|Test\\Test.csproj|C:\\Users\\ASUS\\source\\repos\\Test\\test\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Test\\Test\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Test\\Test\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwCwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T09:20:03.1Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Test\\Views\\Home\\Addcet.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T09:40:41.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T09:40:41.176Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Test\\Views\\Home\\Display.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T10:32:14.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T10:32:14.285Z"
             },
             {
               "$type": "Document",
@@ -101,12 +99,11 @@
               "RelativeToolTip": "Test\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T09:22:49.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T09:22:49.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Test\\Test\\Web.config",
               "RelativeDocumentMoniker": "Test\\Web.config",
